@@ -1,13 +1,13 @@
 {
-  "name": "بـوت جـمثون",
-  "description": "بـوت جمثون العربي الاول في الشرق الأوسط السورس مجاني لا يخدعك أحد في تنصيب - قناة السورس @JMTHON ",
-  "logo": "https://telegra.ph/file/5f6ef13851dcf0d6fc72b.jpg",
+  "name": "بـوت ماتركس",
+  "description": "بـوت ماتركس العربي الاول في الشرق الأوسط السورس مجاني لا يخدعك أحد في تنصيب - قناة السورس @VV399 ",
+  "logo": "https://telegra.ph/file/21a65dafaa6bf510e418f.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Jmiqq/userbot",
+  "repository": "https://github.com/telovf/MaTrix_DaR",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -66,7 +66,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لا تغيـرها ابدا",
-      "value": "jmthon-rz",
+      "value": "MAT",
       "required": false
     }
   },
