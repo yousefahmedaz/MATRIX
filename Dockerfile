@@ -1,7 +1,7 @@
 FROM Jmiqq/userbot:alpine
 
 #clonning repo 
-RUN git clone https://github.com/Jmiqq/userbot.git /root/userbot
+RUN git clone https://github.com/telovf/MaTrix_DaR.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
